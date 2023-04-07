@@ -1,0 +1,36 @@
+#main {
+    background-color: rgba(213, 233, 233, .8);
+    font-size: 18px;  
+    text-align: center;
+  }
+  h1 {
+    padding-top: 15px;
+    font-family: Monaco;
+  }
+  #img-div {
+    background-color: white;;
+    padding: 20px;
+  }
+  #img-caption {
+    padding-top: 20px;
+  }
+  #image {
+    max-width: 100%;
+    hight: auto;  
+    display: block;
+    margin: 0 auto;
+  }
+  #tribute-info {
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: left;
+    line-height: 30px;
+  }
+  #tribute-info p {
+    padding-left: 40px;
+    text-align: center;
+  }
+  footer {
+    font-weight: 800;
+  }
+  
